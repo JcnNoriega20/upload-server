@@ -7,7 +7,7 @@ app = Flask(__name__)
 # ===============================
 # ⚠️ EDITA ESTO CON TU TOKEN Y USUARIO
 # ===============================
-GITHUB_TOKEN = "TU_TOKEN_AQUI"
+GITHUB_TOKEN = "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"
 GITHUB_REPO = "JcnNoriega20/fotos-accesos"
 # ===============================
 
